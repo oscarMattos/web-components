@@ -1,0 +1,20 @@
+.container{
+    background-color: gray;
+    margin-bottom: 16px;
+}
+
+h3 {
+    margin: 0;
+}
+
+.user-data{
+    margin: 0;
+}
+
+.name{
+    margin: 0;
+}
+
+.last-name{
+    margin: 0;
+}

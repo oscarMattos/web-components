@@ -1,0 +1,9 @@
+.container{
+    background-color: gray;
+    margin-bottom: 16px;
+}
+
+h3 {
+    margin: 0;
+    color: red
+}
